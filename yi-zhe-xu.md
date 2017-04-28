@@ -9,9 +9,8 @@ Pieter Hintjens，1962年12月3日 出生于刚果民主共和国，后成为比
 
 他强烈批评专利体系，在2005到2007年之间领导欧洲的反对软件专利运动。在他的"Digital Revolution"中写道，专利体系除了让穿了西装革履的匪徒自称 “诚实商人”之外再没有什么其它功能。
 
-He's been a strong critic of the patent system, leading the European effort to ban software patents from 2005 to 2007. In "Digital Revolution" he writes, The patent system has no function other than to enable gangsters dressed in suits to call themselves "honest businessmen.".
 
-His company, iMatix, provides support to the ZeroMQ market, and in this role he's traveled the world, teaching, coaching and helping others to organize successfully.
+他建立了 iMatix 公司，为 ZeroMQ 市场提供支持，为此他 market, and in this role he's traveled the world, teaching, coaching and helping others to organize successfully.
 
 He defined the term "Social Architecture" as the process, and the product, of planning, designing, and growing an online community, and has promoted the techniques of social architecture in articles and at conferences.
 
