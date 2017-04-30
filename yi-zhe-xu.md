@@ -1,23 +1,24 @@
 # 原作者 Pieter Hintjens
 https://en.wikipedia.org/wiki/Pieter_Hintjens
 
-Pieter Hintjens，1962年12月3日 出生于刚果民主共和国，后成为比利时公民，
-因诊断出晚期胆道癌症而于2016年10月4日自愿安乐死。
+Pieter Hintjens，1962年12月3日出生在刚果，在东非长大，到苏格兰上寄宿学校，到约克大学学习计算机科学，然后在比利时服兵役，以软件建构设计和开发为职业。特别在为大型项目创建组织和技术体系结构方面有广泛的经验。 从1991年起积极参与互联网技术的自由软件开发。 婚后有两个孩子，居住在布鲁塞尔。 流利的说英语，法语，和德语，其他语言也略知一二。他为了工作四处奔波。 自2005年起积极参与数字革命相关的政治活动，组织过 FFII，Esoma，和 Digistan，在各种会议和针对各种问题的运动中发表演讲。
+
+2016年10月4日 Pieter Hintjens在诊断出晚期胆道癌症后自愿实施了安乐死。
 ![](http://hintjens.com/local--files/nav:side/pieter-hintjens.jpg)
 
-在自传中 Pieter Hintjens 说自己是一个作家，程序员和思想家，花费了几十年来建造大型软件系统和在线社区，把它们当作“有生命的系统”。 他是一位分布计算的专家，写过超过30种协议和分布式软件系统。 他于2007年创立了ZeroMQ自由软件项目，于2013年发起 edgenet 项目以建立一个完全安全，匿名的对等互联网。 他的著作包括"ZeroMQ - Messaging for Many Applications" (O'Reilly), "Code Connected", and "Culture and Empire: Digital Revolution"，"The Psychopath Code"， 以及未完成的"Scalable C". 他位于hintjens.com的博客讨论技术和数码人类学。
+在自传中 Pieter Hintjens 说自己是一个作家，程序员和思想家，花费了几十年来建造大型软件系统和在线社区，把它们当作“有生命的系统”。 他是一位分布计算的专家，写过超过30种协议和分布式软件系统。 他于2007年创立了ZeroMQ自由软件项目，于2013年发起 edgenet 项目以建立一个完全安全，匿名的对等互联网。 他的著作包括"ZeroMQ - Messaging for Many Applications" (O'Reilly), "Code Connected", and "Culture and Empire: Digital Revolution"，"The Psychopath Code"， 以及未完成的"Scalable C". 他的博客hintjens.com讨论技术和数码人类学。
 
 他强烈批评专利体系，在2005到2007年之间领导欧洲的反对软件专利运动。在他的"Digital Revolution"中写道，专利体系除了让穿了西装革履的匪徒自称 “诚实商人”之外再没有什么其它功能。
 
 
-他建立了 iMatix 公司，为 ZeroMQ 市场提供支持，为此他 market, and in this role he's traveled the world, teaching, coaching and helping others to organize successfully.
+他建立了 iMatix 公司，为 ZeroMQ 市场提供支持，为此他周游世界，进行教学和辅导，帮助别人更好的建立组织。
 
-He defined the term "Social Architecture" as the process, and the product, of planning, designing, and growing an online community, and has promoted the techniques of social architecture in articles and at conferences.
+他定义了 “社会建筑学” 的术语，即用于规划设计和培植一个在线社区的流畅和产品，并且在文章和会议中推广社会建筑学的技巧。
 
-In his free time he plays piano, badly. He earned his Certified Pistol Instructor badge in Waxahachie, Texas in 2012, though does not own a gun. He learned to drum with Mamady Keita in Brussels in 1998-2000, and played for fifteen years with African musicians in Belgium. He lives in Brussels with his family. He's a member of Mensa and Rotary International and spends most of his time writing and contributing to ZeroMQ and other open source projects.
+他在业余时间弹奏钢琴。 尽管并不拥有枪支，2012年他在得克萨斯的Waxahachie获得了手枪射击教官证书。1998到2000年直接，在布鲁塞尔他跟Mamady Keita学习了打鼓，之后15年经常和非洲音乐家一起在布鲁塞尔演奏。 他和家人生活中布鲁塞尔。 他是门萨俱乐部和国际扶轮的成员。他的大部分时间用来写作，并为ZeroMQ和其他开源项目做贡献。
 
-https://vimeo.com/user10099130/videos
-http://fiction.hintjens.com
-We exist purely as vehicles for our genes; our consciousness, our imaginations, our creations: all these are simply manifestations of our genetically-implanted instincts for survival. We believe we exist because it makes us better replicators. There is no other reason for existence, no god, no destiny, no karma. Our lives are neither random nor controlled: choice is an illusion, but so is fate. We simply operate, like the very intelligent automatons we are. Our minds are exquisitely adapted to solving large and complex problems, the bulk of which come from our intraspecies competition with each other. Our societies are hives, built through the collaboration of thousands and millions of minds. As a species we are genetically so similar, due to near-extinction around 50,000 years ago, that we are practically clones. All our notions of "ethnicity" and "color" are as meaningful as separating people by hair patterns or toe size. Our species is incredibly successful mainly because we have managed to turn our technological prowess onto ourselves, creating a feedback loop that has not stopped since we invented fire and freed our jaws to shrink and make space for a larger brain. Finally, although we all feel unique, we are in fact designed as team players, male and female, young and old adopting clear and comfortable roles that are so inate they are universal in all human cultures. Men solve technical problems, women organize social networks. Young men learn and work, young women dance and like to look pretty. Old women gossip and old men accumulate power.
+在他的小说集网站 http://fiction.hintjens.com 皮特写道，
 
-— Pieter Hintjens, 1 January 2004
+我们仅仅是我们基因的载体； 我们的意识，我们的想象力，我们的创作：所有这些都不过是埋藏于我们基因中的生存本能的表现形式。我们相信自己的存在是因为这样我们能更好的繁衍。没有其他存在的意义，没有上帝，没有命中注定，没有因果轮回。 我们的生命即非随机的也不受控制：选择只是假象，命运同样如此。我们这是在运转，而我们只是些非常聪明的机器人。我们的大脑了不起的适应于解决大型而复杂的问题，大部分归功于我们在同类之间多年来的竞争。我们的社会象是一些蜂巢，由千百万的头脑合作建立起来。 作为一个物种，我们的基因如此相似，发生于大约五万年前人类几乎灭绝的事件，使得现在的人类几乎是彼此的克隆。我们所谓的 “种族特征” 和 “肤色” 就象根据发型或者脚趾头形状对人群进行分类一样，毫无意义。 我们的物种能如此成功，主要是因为我们做到了把高超的技术应用在自身，产生了反馈环，自从我们发明了火从而允许了我们的双鄂不用长得那么大，在头部留出更多空间容纳更大的脑，这一循环从未停止。总之，尽管我们各自感觉与众不同，我们的设计其实是团队的一员，男人和女人，青年和老人分担各种适合的角色，这在所有人类文化中是普遍的。男人解决技术性的问题，女人组织社会网络。男孩子学习并工作，女孩子唱歌跳舞打扮漂亮。老太太传闲话，老头子积累权利。
+
+
