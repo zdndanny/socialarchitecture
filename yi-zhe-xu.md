@@ -2,11 +2,10 @@
 
 [https://en.wikipedia.org/wiki/Pieter\_Hintjens](https://en.wikipedia.org/wiki/Pieter_Hintjens)
 
-Pieter Hintjens，1962年12月3日出生在刚果，在东非长大，到苏格兰上寄宿学校，到约克大学学习计算机科学，然后在比利时服兵役，以软件建构设计和开发为职业。特别在为大型项目创建组织和技术体系结构方面有广泛的经验。 从1991年起积极参与互联网技术的自由软件开发。 婚后有两个孩子，居住在布鲁塞尔。 流利的说英语，法语，和德语，其他语言也略知一二。他为了工作四处奔波。 自2005年起积极参与数字革命相关的政治活动，组织过 FFII，Esoma，和 Digistan，在各种会议和针对各种问题的运动中发表演讲。
+Pieter Hintjens，1962年12月3日出生在刚果，在东非长大，到苏格兰上寄宿学校，到约克大学学习计算机科学，然后在比利时服兵役，以软件建构设计和开发为职业。特别在为大型项目创建组织和技术体系结构方面有广泛的经验。 从1991年起积极参与互联网技术的自由软件开发。 婚后有两个孩子，居住在布鲁塞尔。 他能流利的说英语，法语，和德语，其他几种语言也略知一二。他为了工作四处奔波。 自2005年起积极参与数字革命相关的政治活动，组织过 FFII，Esoma，和 Digistan，在各种会议和针对各种问题的运动中发表演讲。
 
 2016年10月4日 Pieter Hintjens 因为晚期胆道癌症，自愿实施了安乐死。
 
-  
 ![](http://hintjens.com/local--files/nav:side/pieter-hintjens.jpg)
 
 在自传中 Pieter Hintjens 说自己是一个作家，程序员和思想家，花费了几十年来建造大型软件系统和在线社区，把它们当作“有生命的系统”。 他是一位分布计算的专家，写过超过30种协议和分布式软件系统。 他于2007年创立了ZeroMQ自由软件项目，于2013年发起 edgenet 项目以建立一个完全安全，匿名的对等互联网。 他的著作包括"ZeroMQ - Messaging for Many Applications" \(O'Reilly\), "Code Connected", and "Culture and Empire: Digital Revolution"，"The Psychopath Code"， 以及未完成的"Scalable C". 他的博客hintjens.com讨论技术和数码人类学。
