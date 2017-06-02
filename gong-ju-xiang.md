@@ -1,30 +1,27 @@
 # 工具箱
 
-我的社会建筑学工具箱里面有20样工具，每一件覆盖社区或者团体的一个方面。这些
+我的社会建筑学工具箱里面有20样工具，每一件覆盖社群或者团体的一个方面。这些工具有两种作用的方式。 首先，你可以使用这些工具来衡量一个现有的社群，得到一个分数。接下来，当你设计一个社群时候，你可以使用这些工具帮助你把精力投入到最有用的地方。
 
-
-* 强烈的使命
-* 自由加入
-* 透明度
-* 自由贡献
-* 完全的可重用
-* 强有力的协议
-* 公正的权力
-* 反帮派主义
-* 自我组织
-* 宽容
-* 可计量的成功
-* 高分奖励
-* 去中心化
-* 自由的工作空间
-* 便利学习
-* 正规的结构
-* 积极乐观
-* 幽默感
-* 极简主义
-* 合理的资金保证
-
-
+* **强烈的使命** 
+* **自由加入**
+* **透明度**
+* **自由贡献**
+* **完全的可重用**
+* **强有力的协议**
+* **公正的权力**
+* **反帮派主义**
+* **自我组织**
+* **宽容**
+* **可计量的成功**
+* **高分奖励**
+* **去中心化**
+* **自由的工作空间**
+* **便利学习**
+* **正规的结构**
+* **积极乐观**
+* **幽默感**
+* **极简主义**
+* **合理的资金保证**
 
 In my Social Architect's toolbox, I have 20 tools, each covering one aspect of a community or group. These tools work in two ways. First, you can use them to measure an existing community, giving a rating of zero or more. Second, you can use them when you design a community, to help you focus your effort on where it will be most useful.
 
@@ -63,6 +60,48 @@ Whatever toolkit I can provide you with, you'll want to adapt and extend it for 
 
 * //Learn and teach all the time.// Teaching gives you perspective, and learning lets you pick up new tools over time. Social Architecture is a young craft, and though the basics are solidly anchored in human psychology, there are still many unknowns.
 
+### 强烈的使命
+
+### 自由加入
+
+### 透明度
+
+### 自由贡献
+
+### 完全的可重用
+
+### 强有力的协议
+
+### 公正的权力
+
+### 反帮派主义
+
+### 自我组织
+
+### 宽容
+
+### 可计量的成功
+
+### 高分奖励
+
+### 去中心化
+
+### 自由的工作空间
+
+### 便利学习
+
+### 正规的结构
+
+### 积极乐观
+
+### 幽默感
+
+### 极简主义
+
+### 合理的资金保证
+
+
+
 ++ Strong Mission
 
 The starting point for any community is a stated mission. The mission defines the goals that we can all agree on in advance, before we join the project. It's like the title of a website or the slogan for a movie. For instance, Reddit's title is: "the front page of the Internet," an ambitious mission that it nonetheless achieved. Facebook's slogan is: "helps you connect and share with the people in your life."
@@ -71,7 +110,7 @@ The starting point for any community is a stated mission. The mission defines th
 
 Without a clear mission, an on-line community won't grow. A group of friends who start a project may agree what they want to do, yet anyone new coming on board has to guess what they had in mind. People will guess wrong, and will change their minds over time. This leads to confusion, disagreement, and disappointment as people find that their hard work was wasted because the rest of the group headed off in a different direction.
 
-A good mission saunters past "sane" and steps into "you cannot be serious!" Wikipedia's mission, [https://en.wikipedia.org/wiki/Main_Page "the free encyclopedia that anyone can edit"] is a good example. It was, initially, a goal that everyone, except a few idealists, found impossible and crazy. Those idealists were precisely who Wikipedia needed to get on board on day one. Impossible missions attract the right kind of people for a young project.
+A good mission saunters past "sane" and steps into "you cannot be serious!" Wikipedia's mission, \[[https://en.wikipedia.org/wiki/Main\_Page](https://en.wikipedia.org/wiki/Main_Page) "the free encyclopedia that anyone can edit"\] is a good example. It was, initially, a goal that everyone, except a few idealists, found impossible and crazy. Those idealists were precisely who Wikipedia needed to get on board on day one. Impossible missions attract the right kind of people for a young project.
 
 //TIP:// Change your mission as your community matures. At first, you will want to attract idealists and pioneers, then the leading edge, and then early adopters, the mass market, and finally, the late adopters. Each of these groups wants different things. Understand that, and tune your mission to suit.
 
@@ -83,19 +122,19 @@ You may have multiple missions, by accident or deliberately. This can be traumat
 
 For ZeroMQ, our stated mission was "Fastest. Messaging. Ever." This is a nice, and nearly impossible answer to a problem we could all agree on: namely, the slow, bloated technology available at that time. However, my co-founder Martin and I had conflicting goals. He wanted to build the best software possible, while I wanted to build the largest community possible. As the user base grew, his dramatic changes, which broke existing applications, caused increasing pain.
 
-In that case, we were able to make everyone happy (Martin went off to build a new library called "Nano"). However if you cannot resolve mission conflicts, it can damage the project severely. Projects can survive a lot of arguments, however fights between founders are traumatic.
+In that case, we were able to make everyone happy \(Martin went off to build a new library called "Nano"\). However if you cannot resolve mission conflicts, it can damage the project severely. Projects can survive a lot of arguments, however fights between founders are traumatic.
 
 //TIP:// If the founders agree that "success" is defined as "having the most participants possible," it can help in keeping your focus over the years. It also makes it easy to measure your success as you grow.
 
 ++ Free Entry
 
-Once you have agreed on your mission, you need to test this against the real world. That is, you have to make a minimal yet plausible answer to the problem you identified. I call this a "seed." With the seed, you have two main goals. First, to start to collect idealists and pioneers (basically, anyone mad enough to trust you) into a community. Second, to prove or disprove your mission.
+Once you have agreed on your mission, you need to test this against the real world. That is, you have to make a minimal yet plausible answer to the problem you identified. I call this a "seed." With the seed, you have two main goals. First, to start to collect idealists and pioneers \(basically, anyone mad enough to trust you\) into a community. Second, to prove or disprove your mission.
 
 Projects fail for many reasons. A major cause of failure is that the original idea or mission wasn't as amazing as people felt. Failure is fine, even excellent, unless it costs years of your life. Making a seed and showing it to a few people isn't enough because most people won't be really critical. They feel it's hurtful. However, ask people to invest even a few hours of their time in making it better, and if they don't say "yes," you know how they really feel.
 
 //TIP:// Build a "seed" product in public view and encourage others to get involved from the start. If people do get involved, promote them rapidly. If they don't, treat that as a sign your mission may be wrong. Use the seed product to build the community.
 
-Once people agree to help you, they need somewhere to work together. You need a "collaboration platform." My two favorites are [http://wikidot.com Wikidot] for knowledge communities, and [http://github.com GitHub] for software projects. The platform has to be free to use. It has to be easy to learn and work with. Your seed project has to be visible to anonymous visitors. It has to work for anyone no matter his or her age, gender, education, or physical location.
+Once people agree to help you, they need somewhere to work together. You need a "collaboration platform." My two favorites are \[[http://wikidot.com](http://wikidot.com) Wikidot\] for knowledge communities, and \[[http://github.com](http://github.com) GitHub\] for software projects. The platform has to be free to use. It has to be easy to learn and work with. Your seed project has to be visible to anonymous visitors. It has to work for anyone no matter his or her age, gender, education, or physical location.
 
 All this makes it possible for interesting strangers to walk up and look at your work and, if they like it and feel challenged by it, get involved little by little. You want to be working on your seed in public view, and talking about your new project, from the very start. This means people can make suggestions, and feel involved, from day one.
 
@@ -121,7 +160,7 @@ It is ironic that secrets seem essential to certain business models. Profits oft
 
 ++ Free Contributors
 
-Money is a funny thing. Too little, and the community starves (I'll return to this later). Too much, and it rots. It is important to understand why each contributor is there at all. //What are their economic motives?// Even in a volunteer community, every person is there for self-interested reasons.
+Money is a funny thing. Too little, and the community starves \(I'll return to this later\). Too much, and it rots. It is important to understand why each contributor is there at all. //What are their economic motives?// Even in a volunteer community, every person is there for self-interested reasons.
 
 In ZeroMQ, we originally started with a small paid team and moved after two years to a community of volunteers through the pragmatic -- if not very gentle -- tactic of running out of money and having to fire the developers. A few disappeared to other jobs, some came back as contributors, and the project became more exciting and fun than before. People contribute to ZeroMQ because they need it in their own projects, and if they spend a little time making it better, that can earn them or save them many times more.
 
@@ -141,7 +180,7 @@ Broadly, there are three types of agreement for copyright:
 
 # A "free to take" license that allows one-way remixing. This is the dominant model for many open source software communities.
 
-# A "share-alike" license that enforces two-way remixing. This is the dominant model for free software communities like ZeroMQ, and for many artistic communities (though it may be an unwritten agreement).
+# A "share-alike" license that enforces two-way remixing. This is the dominant model for free software communities like ZeroMQ, and for many artistic communities \(though it may be an unwritten agreement\).
 
 Users prefer the "free to take" model because it lets them use the content in any way they like without reciprocity. Imagine a DJ who releases a popular track under the "free to take" model. Then a company makes a remix and uses that for an advert. And that remix will be locked down. Now, the DJ cannot remix that new work, and may find himself unable even to play the remix.
 
@@ -153,15 +192,15 @@ Communities, however, work better with the third model because it converts users
 
 Good protocols let strangers collaborate without up-front agreement. They resolve destructive conflict, and turn it into valuable competition. The insight that lets anarchists join wise crowds as happily as anyone is that the crowd can develop its own rules. Typically, these rules govern remixing, identity, ranking, and so on. No matter what their form, good rules are simple, clear, explicitly written down, and agreed upon by all.
 
-If you're building a software project, you might take an existing rulebook, like the [http://rfc.zeromq.org/spec:2 C4 protocol] we built for ZeroMQ. Otherwise, you can start with a minimal rulebook and grow it over time as you see what problems hit the community. This is, for example, how [http://simple.wikipedia.org/wiki/Wikipedia:Rules the Wikipedia rulebook] grew up.
+If you're building a software project, you might take an existing rulebook, like the \[[http://rfc.zeromq.org/spec:2](http://rfc.zeromq.org/spec:2) C4 protocol\] we built for ZeroMQ. Otherwise, you can start with a minimal rulebook and grow it over time as you see what problems hit the community. This is, for example, how \[[http://simple.wikipedia.org/wiki/Wikipedia:Rules](http://simple.wikipedia.org/wiki/Wikipedia:Rules) the Wikipedia rulebook\] grew up.
 
-Some rules must be established very early (such as licenses for contributions). Others can be developed when needed (such as processes for resolving conflicts). Complex, pointless, or unwritten rules are toxic to groups. They create space for argument, confuse people, and make it expensive to join or leave a group.
+Some rules must be established very early \(such as licenses for contributions\). Others can be developed when needed \(such as processes for resolving conflicts\). Complex, pointless, or unwritten rules are toxic to groups. They create space for argument, confuse people, and make it expensive to join or leave a group.
 
 //TIP:// Write your rules very carefully, starting with choosing a license for content, and measure how much they help people. Change them over time as you need to.
 
 ++ Fair Authority
 
-Without authority, rules have no strength. The community founders and main contributors are its de facto authority. If they abuse this position, they lose contributors and the project dies or gets forked under different rules. Authority needs to be scalable (that is, work with any size of group) and transferable as the group grows and changes over time.
+Without authority, rules have no strength. The community founders and main contributors are its de facto authority. If they abuse this position, they lose contributors and the project dies or gets forked under different rules. Authority needs to be scalable \(that is, work with any size of group\) and transferable as the group grows and changes over time.
 
 While we need authority to build a flat playing field, many groups use authority as a way of controlling members, keeping them in the group, and making them conform. A favorite cult technique is to randomly punish and reward people so they become confused and stop questioning authority.
 
@@ -209,7 +248,7 @@ In software, we do this by making standards that teams can build on. Take for ex
 
 ++ Measurable Success
 
-It's all very well to try to turn conflict into competition. However, you also need to provide teams with a way to know how well they are doing. The best tools, like GitHub, show you precisely how many people are watching or have "starred" or "forked" a particular project (revealing different levels of interest and commitment).
+It's all very well to try to turn conflict into competition. However, you also need to provide teams with a way to know how well they are doing. The best tools, like GitHub, show you precisely how many people are watching or have "starred" or "forked" a particular project \(revealing different levels of interest and commitment\).
 
 The Web, of course, has always been obsessed with "hits" and traffic analysis, which show exactly how popular a specific site or page is. This makes it very easy to measure success of on-line projects. In the old industrial-era business, teams get their feedback from their bosses. This turns into an exercise in power: you'll be scored higher for compliance than for accuracy. Making your bosses happy so they give you a pay raise is not healthy.
 
@@ -223,7 +262,7 @@ In the ZeroMQ community, we don't emphasize high scoring much, though contributo
 
 Reddit, like many sites, uses "karma" that shows how many votes a profile got for its posts and submissions. It works pretty well. Some sites don't show all karma in order to stop people playing the system to just get a higher score. Some sites, like StackOverflow, have taken "gamification" to an extreme level, with badges, high scores, achievements, and so on. I think this is manipulative and distorts the mission of the community. People should be contributing because they need the project to succeed, not to earn toy points.
 
-Having said that, social credit -- making groups of strangers happy -- is enormously satisfying and does not pollute the planet. Industrial society focuses on material rewards (higher salary, larger house, nicer car) tied into a hierarchical structure. It is effective because we all like wealth, or we have a daddy complex; whatever the reason, wanting to make the boss happy means taking fewer risks.
+Having said that, social credit -- making groups of strangers happy -- is enormously satisfying and does not pollute the planet. Industrial society focuses on material rewards \(higher salary, larger house, nicer car\) tied into a hierarchical structure. It is effective because we all like wealth, or we have a daddy complex; whatever the reason, wanting to make the boss happy means taking fewer risks.
 
 //TIP:// When there is something that people are asking for, and you don't know how to do it yourself, announce publicly that it is "impossible." Or, propose a solution that is so awkward and hopeless that it annoys real experts into stepping up.
 
@@ -241,7 +280,7 @@ It can be hard to move away from the old discuss-then-execute model of working t
 
 A community needs space in which to grow. In Internet terms, this is typically a website or collection of sites, and related structures like email lists, blogs, and so on. We've seen that it's become very cheap, or free, to create "space" in digital society. The question is, can individuals create their own spaces within the community? If so, they will invest more in the collective project.
 
-The freedom to create structure annoys people who feel that it creates chaos and disorder. However, if you use regular structures (see the next section), there's no real cost to participants. What is toxic is //speculatively// creating structure based on the assumption that people might need it. When I took charge of the FFII association in 2005, the previous president had created several hundred email lists, representing all the projects //he// felt people should be working on. It didn't fit how people wanted to organize, and it was very hard to delete these lists and create the ones we actually needed.
+The freedom to create structure annoys people who feel that it creates chaos and disorder. However, if you use regular structures \(see the next section\), there's no real cost to participants. What is toxic is //speculatively// creating structure based on the assumption that people might need it. When I took charge of the FFII association in 2005, the previous president had created several hundred email lists, representing all the projects //he// felt people should be working on. It didn't fit how people wanted to organize, and it was very hard to delete these lists and create the ones we actually needed.
 
 Of course, industrial-era groups do assign work, and assign the resources to carry it out. Any new infrastructure -- such as a website, email list, or wiki -- requires approval and a decision. It might even need legal review due to copyright and patent concerns. The cost is high, so people are reluctant to take the risk. Thus, they don't experiment and often work with one hand tied behind their backs.
 
@@ -255,9 +294,9 @@ As a community grows larger, it can become harder to navigate. If you make a sin
 
 Complexity turns people away because it's so difficult to learn. The solution is to use very regular structures that you can learn once and then predict many times. Not any structure will do. We seem bad at learning structures deeper than three or four levels. However, we're happy to explore very wide structures with thousands or millions of boxes if those boxes correspond to separate units of work, or projects. Think of a city.
 
-The successful on-line communities are cities, not castles. Wikipedia consists of a few language-specific wikis, each broken into millions of pages (the projects), each structured into sections, discussion, history, footnotes, and so on. Several people may be working on a page at once, and one person may be slowly editing or caring for dozens or hundreds of pages.
+The successful on-line communities are cities, not castles. Wikipedia consists of a few language-specific wikis, each broken into millions of pages \(the projects\), each structured into sections, discussion, history, footnotes, and so on. Several people may be working on a page at once, and one person may be slowly editing or caring for dozens or hundreds of pages.
 
-GitHub manages millions of software repositories or "repos," grouped under user profiles or organizations, and each broken into some further structure (source files, documentation, etc.) that usually depends on the language (Java repos use one style, C repos use another, and so on). One repo may have a handful of contributors, and people will work on a few to a dozen repos. The ZeroMQ community consists of an organization that contains a growing number of projects.
+GitHub manages millions of software repositories or "repos," grouped under user profiles or organizations, and each broken into some further structure \(source files, documentation, etc.\) that usually depends on the language \(Java repos use one style, C repos use another, and so on\). One repo may have a handful of contributors, and people will work on a few to a dozen repos. The ZeroMQ community consists of an organization that contains a growing number of projects.
 
 //TIP:// Design your community as a searchable city of projects, where anyone can start a new project, projects represent perhaps a dozen people's work, and all have familiar structure, as much as possible.
 
@@ -269,7 +308,7 @@ When ZeroMQ started, it was one project with a single "README" page. Today, it's
 
 Think of your community as a video game with levels that become increasingly difficult, and have bigger and bigger payoffs. People will play "up to their level." If you can do this right, you attract the most people. If you do this wrong, you'll bore experts by making it too easy, or you'll turn off others by making it too hard to get started.
 
-//TIP:// Use classic training tools -- presentations, videos, answers to frequently asked questions (FAQs), tutorials -- to get people started. It helps if you are part of the community so you can see what kinds of questions people ask when they start.
+//TIP:// Use classic training tools -- presentations, videos, answers to frequently asked questions \(FAQs\), tutorials -- to get people started. It helps if you are part of the community so you can see what kinds of questions people ask when they start.
 
 Many existing organizations make no effort to create a smooth curve. Everything starts complex and stays there. To participate, you might need weeks of training. It's inefficient, frustrating, and expensive to scale.
 
@@ -287,7 +326,7 @@ A positive culture is more tolerant and reduces emotions and arguments. It also 
 
 ++ Sense of Humor
 
-Have you ever wondered why humans have an instinct for humor, and why people who never laugh seem odd or unfriendly? My theory is that we evolved humor as a way of defusing conflict (which has obvious survival value). People don't punch the joker unless the joke is old or badly told. More subtly, humor defuses tribalism and emotion, and lets people work together even when they have huge differences. A shared joke creates strong bonds because it proves the intersection of minds. Humor is an essential part of a community and reduces stress.
+Have you ever wondered why humans have an instinct for humor, and why people who never laugh seem odd or unfriendly? My theory is that we evolved humor as a way of defusing conflict \(which has obvious survival value\). People don't punch the joker unless the joke is old or badly told. More subtly, humor defuses tribalism and emotion, and lets people work together even when they have huge differences. A shared joke creates strong bonds because it proves the intersection of minds. Humor is an essential part of a community and reduces stress.
 
 //TIP:// The more serious your message, the more you need humor. In my ZeroMQ book, I wrote a lot of silly nonsense mixed with the heavy technical explanations. Most people enjoyed and appreciated this.
 
@@ -303,7 +342,7 @@ The general rule is //do the absolute minimum that probably works//. Then invest
 
 The culture of minimalism can, and should, extend to your community itself. In the past, we used to make legal entities for serious projects so there would be a place to hold copyrights, trademarks, and money. However, legal entities are expensive and time-consuming to manage. Tax reporting by itself can be an unbearable burden.
 
-One of my communities, [http://www.digistan.org Digistan], was designed, grown, and did its work (building a new generation of legal templates and political arguments for open standards) in about six months. All of our ZeroMQ protocols are based on the Digistan work. The [https://en.wikipedia.org/wiki/Open_Web_Foundation Open Web Foundation] -- solving the same problem -- spent two years simply building a legal entity, defining bylaws, and electing officers.
+One of my communities, \[[http://www.digistan.org](http://www.digistan.org) Digistan\], was designed, grown, and did its work \(building a new generation of legal templates and political arguments for open standards\) in about six months. All of our ZeroMQ protocols are based on the Digistan work. The \[[https://en.wikipedia.org/wiki/Open\_Web\_Foundation](https://en.wikipedia.org/wiki/Open_Web_Foundation) Open Web Foundation\] -- solving the same problem -- spent two years simply building a legal entity, defining bylaws, and electing officers.
 
 ++ Sane Funding
 
